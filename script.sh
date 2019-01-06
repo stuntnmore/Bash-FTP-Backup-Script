@@ -6,7 +6,7 @@
 # Skype: pe46dro
 # Email: pietro.marangon@gmail.com
 # SFTP function by unixfox and Pe46dro
-# EDITED TO SUPPORT SQL Backup & Server Backup
+# EDITED TO SUPPORT SQL Backup & Server Backup by stuntnmore
 
 backup_path="/root"
 
